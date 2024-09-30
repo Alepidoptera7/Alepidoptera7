@@ -1,6 +1,6 @@
 Hello Biological World! 
 
-I'm Andrew Lamothe, a bioinformatic engineer, but most people call me Quin. 
+I'm Quin Lamothe, a bioinformatic engineer.
 
 I hold bachelor's degrees in Biomolecular Engineering and Bioinformatics, and Computational Mathematics from UCSC. 
 
