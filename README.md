@@ -6,6 +6,6 @@ I'm currently finishing a Masters of Engineering at UC Berkeley in Bioengineerin
 
 I hold bachelor's degrees in Biomolecular Engineering and Bioinformatics, and Computational Mathematics from UCSC. 
 
-My efforts generally involve machine learning for bioinformatic purposes. 
+My efforts involve machine learning for bioinformatic purposes as may be applied to laboratory processes, clinical discovery, and therepeutic design. 
 
 Please, inspect my work, such that we may converge on truth together!
