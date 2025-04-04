@@ -1,4 +1,4 @@
-Hello Biological World! 
+Hello Biological World,
 
 I'm Quin Lamothe, a bioinformatic engineer. My efforts involve machine learning for bioinformatic purposes as may be applied to laboratory processes, clinical discovery, and therapeutic design. 
 
